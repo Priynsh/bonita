@@ -26,3 +26,11 @@ To get started, clone this repository and ensure that you have the required Juli
 ```bash
 git clone https://github.com/your-username/global-carbon-deforestation-visualization.git
 cd global-carbon-deforestation-visualization
+```
+### NewBonitoCalculator:
+
+The NewBonitoCalculator module leverages Bonito.jl to generate an interactive web page for this visualizer. It provides a seamless interface for users to interact with the emissions and deforestation data directly from their browsers.
+
+### Final Visualization Example:
+
+![UI Example2](ui_example2.png)
